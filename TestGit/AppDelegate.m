@@ -15,7 +15,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
-    
+    NSLog(@"TestBranch top");
     NSLog(@"master middle");
     [self.window makeKeyAndVisible];
     return YES;
