@@ -17,6 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     
     NSLog(@"master middle");
+    NSLog(@"master bottom");
     [self.window makeKeyAndVisible];
     return YES;
 }
