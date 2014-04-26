@@ -28,6 +28,7 @@
     [super viewDidLoad];
     
     NSLog(@"hello github");
+    NSLog(@"test remote branch");
     
     // Do any additional setup after loading the view from its nib.
 }
