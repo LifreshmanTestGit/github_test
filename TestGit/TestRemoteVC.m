@@ -30,6 +30,8 @@
     NSLog(@"hello github");
     NSLog(@"test remote branch");
     
+    NSLog(@"test push dev");
+    
     // Do any additional setup after loading the view from its nib.
 }
 
