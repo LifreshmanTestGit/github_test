@@ -16,6 +16,11 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
 
+    int const n = 100;
+    int *p = (int *)&n;
+    *p = 123;
+    NSLog(@"%d",n);
+    
     NSLog(@"1");
     NSLog(@"2");
     
