@@ -31,6 +31,7 @@
     NSLog(@"test remote branch");
     
     NSLog(@"add master test");
+    NSLog(@"test push dev");
     
     // Do any additional setup after loading the view from its nib.
 }
